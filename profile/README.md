@@ -7,3 +7,6 @@ Setiap folder di repositori ini bukan hanya tentang kode sumber, tetapi juga mer
 Seperti halnya dengan repositori GitHub pada umumnya, pengguna di Repositori GitHub Kabupaten Bintan dapat melacak perubahan-perubahan yang terjadi, mengusulkan perbaikan atau fitur baru melalui permintaan tarik, dan berkolaborasi dalam menyelesaikan masalah-masalah yang muncul. Namun, yang membuatnya istimewa adalah fokusnya pada pengembangan teknologi yang sesuai dengan kebutuhan lokal dan nilai-nilai budaya yang khas di Bintan.
 
 Seiring matahari terbenam di cakrawala Bintan, Repositori GitHub terus berdenyut dengan energi inovasi, menjadi pusat inspirasi bagi para pengembang lokal dan sumber daya penting bagi kemajuan teknologi di wilayah ini. Dengan pengetahuan yang terus bertambah dan kolaborasi yang semakin erat, repositori ini tidak hanya menjadi wadah untuk menyimpan kode, tetapi juga simbol dari semangat kemajuan dan keterbukaan Kabupaten Bintan dalam menghadapi tantangan masa depan.
+
+## List semua library 
+https://github.com/search?q=topic%3Alibrary+org%3Atim-it-diskominfobintan+fork%3Atrue&type=repositories
