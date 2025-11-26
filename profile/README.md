@@ -10,3 +10,6 @@ Seiring matahari terbenam di cakrawala Bintan, Repositori GitHub terus berdenyut
 
 ## List semua library 
 https://github.com/search?q=topic%3Alibrary+org%3Atim-it-diskominfobintan+fork%3Atrue&type=repositories
+
+## Lain lain
+[Referensi regex untuk NIK](https://gist.github.com/siayi/1af4c8d542c16ea7c0ff94c15508b9fc.js)
