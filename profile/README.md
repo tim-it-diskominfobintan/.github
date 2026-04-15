@@ -13,3 +13,4 @@ https://github.com/search?q=topic%3Alibrary+org%3Atim-it-diskominfobintan+fork%3
 
 ## Lain lain
 [Referensi regex untuk NIK](https://gist.github.com/siayi/1af4c8d542c16ea7c0ff94c15508b9fc)
+[Referensi payload untuk testing security](https://github.com/dimasnugroho673/PayloadsAllTheThings)
